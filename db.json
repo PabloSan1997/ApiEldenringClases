@@ -1,0 +1,35 @@
+{
+    "clases": [
+        {
+            "personaje": "Vagabundo",
+            "imagen":"https://static1.millenium.org/articles/4/38/66/74/@/1562442-vagabond-article_m-2.jpg",
+            "niveles":[9,15,10,11,14,13,9,9,7],
+            "tex":"Incluye armadura, espada media, arma larga y escudo br Empieza con carga pesada por lo que es más lento"
+        },
+        {
+            "personaje": "Guerrero",
+            "imagen":"https://eldenring-es.wiki.fextralife.com/file/Elden-Ring---es/warrior_class_elden_ring_wiki_guide_270px-min.png",
+            "niveles":[8,12,10,13,11,15,9,7,10],
+            "tex":"Si quieres concentrarte en destreza, esta es la opcion correcta br Inclulle dos dagas"
+        },
+        {
+            "personaje": "Profeta",
+            "imagen":"https://eldenring-es.wiki.fextralife.com/file/Elden-Ring---es/prophet_class_elden_ring_wiki_guide_270px-min.png",
+            "niveles":[8,9,16,10,12,9,8,16,7],
+            "tex":"Incluye armadura, espada media, arma larga y escudo" 
+        },
+        {
+            "personaje": "Héroe",
+            "imagen":"https://i.blogs.es/776a41/250222-eldenring-clases-04/450_1000.jpeg",
+            "niveles":[7,14,9,12,16,9,7,8,11],
+            "tex":"Clase especial para crecer en fuerza br Incluye una hacha bastante potente de inicio" 
+        },
+        {
+            "personaje": "Astrólogo",
+            "imagen":"https://eldenring-es.wiki.fextralife.com/file/Elden-Ring---es/astrologer_class_elden_ring_wiki_guide_270px-min.png",
+            "niveles":[6,9,15,9,8,12,16,7,9],
+            "tex":"Clase perfecta para luchar con inteligencia y destreza br Incluye una arma mágica" 
+        }
+    ]
+    
+}
