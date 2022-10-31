@@ -29,6 +29,12 @@
             "imagen":"https://eldenring-es.wiki.fextralife.com/file/Elden-Ring---es/astrologer_class_elden_ring_wiki_guide_270px-min.png",
             "niveles":[6,9,15,9,8,12,16,7,9],
             "tex":"Clase perfecta para luchar con inteligencia y destreza br Incluye una arma mágica" 
+        },
+        {
+            "personaje": "Bandido",
+            "imagen":"https://static1-es.millenium.gg/articles/2/45/31/2/@/238082-bandit2-orig-1-article_m-1.jpg",
+            "niveles":[5,10,11,10,9,13,9,8,14],
+            "tex":"Clase perfecta para la exploración br Esta clase es la peor de todas" 
         }
     ]
     
