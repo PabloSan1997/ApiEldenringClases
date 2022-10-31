@@ -35,6 +35,18 @@
             "imagen":"https://static1-es.millenium.gg/articles/2/45/31/2/@/238082-bandit2-orig-1-article_m-1.jpg",
             "niveles":[5,10,11,10,9,13,9,8,14],
             "tex":"Clase perfecta para la exploración br Esta clase es la peor de todas" 
+        },
+        {
+            "personaje": "Prisionero",
+            "imagen":"https://static1-br.millenium.gg/articles/7/90/27/@/114772-prisonnier-orig-1-article_m-1.jpg",
+            "niveles":[9,11,12,11,11,14,14,6,9],
+            "tex":"Esta clase es perfecta para mezclar melee con ataques de inteligencia" 
+        },
+        {
+            "personaje": "Confesor",
+            "imagen":"https://eldenring-es.wiki.fextralife.com/file/Elden-Ring---es/confessor_class_elden_ring_wiki_guide_270px-min.png",
+            "niveles":[10,10,13,10,12,12,9,14,9],
+            "tex":"Esta clase es ideal para los ataques de fe" 
         }
     ]
     
